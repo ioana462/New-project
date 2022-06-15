@@ -1,2 +1,3 @@
-# New-project
- gid test project
+# Techdegree Project
+
+gid test project
